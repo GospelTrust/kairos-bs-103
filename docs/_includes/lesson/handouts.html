@@ -3,5 +3,10 @@
 {% assign item = week.items[index] %}
 
 {% for ho in item.handouts %}
-  {% include handouts/ho{{ ho }}.md %}
+  {% assign file = ho | prepend: 'ho' %}
+  {% assign videos = site.data.videos[file] %}
+  {% include handouts/header.html handout=ho data=item videos=videos %}
+  {% include handouts/{{ file }}.md %}
+  {% assign size = item.handouts | size %}
+  {% if forloop.index != size %}<hr />{% endif %}
 {% endfor %}
