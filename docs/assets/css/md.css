@@ -12,13 +12,16 @@
   height: 100%;
 }
 
+th {
+  background-color: #2f2f2f;
+}
 table, th, td {
-  border: 1px solid #333;
+  border-bottom: 1px solid #333;
   border-collapse: collapse;
   padding: 5px;
 }
 
 tr:nth-child(odd) {
-  background-color: #333;
+  background-color: #3f3f3f;
 }
 

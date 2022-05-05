@@ -4,20 +4,28 @@ html {
   --secondaryFont: 'Teko', sans-serif;
   --monoFont: 'Share Tech Mono', monospace;
   --textFont: 'Lexend', sans-serif;
-  --secondaryColor: dodgerblue;
+  --secondaryColor: skyblue;
   --linkColor: deeppink;
   --primaryColor: aliceblue;
   --bgColor: #444;
   --fgColor: ivory;
+  --darkColor: gray;
   --contentWidth: 600px;
 }
 
 body {
   font-family: var(--mainFont);
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 17px;
+  line-height: 1.6;
   background-color: var(--bgColor);
   color: var(--fgColor);
+}
+
+hr {
+  width: 300px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  border-color: var(--bgColor);
 }
 
 a {
@@ -77,11 +85,15 @@ pre code {
 }
 
 blockquote {
-  border-left: 5px solid var(--secondaryColor);
+  border-left: 5px solid var(--darkColor);
   padding-left: 10px;
-  margin-left: 20px;
+  margin: 0 10px 0 20px;
   font-family: var(--specialFont);
   font-size: 19px;
+}
+
+blockquote p {
+  margin: 0;
 }
 
 section.content {
@@ -92,6 +104,16 @@ section > div {
   max-width: var(--contentWidth);
   display: flex;
   flex-direction: column;
+}
+
+ol > li > ul > li {
+  list-style-type: disclosure-closed;
+}
+ol > li > ol > li {
+  list-style: lower-alpha;
+}
+ul > li > ul > li {
+  list-style-type: square;
 }
 
 .md-18 { font-size: 18px; }
