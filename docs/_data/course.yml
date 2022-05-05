@@ -18,7 +18,7 @@ week-01:
     session: 3
     url: 'session-03'
     handouts: [ '02' ]
-  - title: 'OT Events, and, Books & Sets of Books in the OT'
+  - title: 'OT Events and Books & Sets of Books in the OT'
     header: info
     session: 4
     url: 'session-04'
@@ -28,6 +28,7 @@ week-01:
     number: 1
     due: 2022-04-24
     header: assignment
+    points: 30
     url: 'assignment-01'
 
 week-02:
