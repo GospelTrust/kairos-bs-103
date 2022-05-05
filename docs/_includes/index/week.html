@@ -1,0 +1,60 @@
+{% assign info = site.data.course[page.collection] %}
+
+<div class="center-align">
+  <a href="/"><img src="/assets/logo.svg" width="100" title="{{ site.title }}"/></a>
+
+  <h1 class="special">
+    {{ info.title }}
+  </h1>
+
+  <div>
+    {% if info.begin and info.end %}
+      {{ info.begin | date: '%b %e' }} - {{ info.end | date: '%b %e, %Y' }}
+    {% else %}
+      {{ info.date }}
+    {% endif %}
+  </div>
+  {% include index/current_week.html begin=info.begin end=info.end %}
+</div>
+
+<ul>
+  {% for item in info.items %}
+    <li class="card-tab {{ info.theme }}">
+
+      {% if item.session %}
+        <div class="top-bar">{{ site.session_tag }}</div>
+        <div class="tab">{{ item.session }}</div>
+      {% elsif item.tab %}
+        <div class="top-bar">{{ item.tab }}</div>
+        <div class="tab">{{ item.number }}</div>
+      {% else %}
+        <div class="top-bar">&nbsp;</div>
+      {% endif %}
+
+      {% if item.due %}
+        <div class="header">Due: {{ item.due | date: '%b %e, %y' }}</div>
+      {% else %}
+        <div class="header">{{ item.header }}</div>
+      {% endif %}
+
+      <div class="body">
+        {% if item.url %}
+          <h2><a href="/{{ page.collection }}/{{ item.url }}">{{ item.title }}</a></h2>
+        {% else %}
+          <h2>{{ item.title }}</h2>
+        {% endif %}
+
+        {% if item.part %}
+          <div class="item">
+          Part {{ item.part }}
+          </div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+<div class="center-align">
+  {% include lesson/week_nav.html %}
+</div>
+

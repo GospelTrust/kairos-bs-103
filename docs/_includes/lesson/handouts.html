@@ -1,0 +1,7 @@
+{% assign week = site.data.course[page.collection] %}
+{% assign index = page.index | minus: 1 %}
+{% assign item = week.items[index] %}
+
+{% for ho in item.handouts %}
+  {% include handouts/ho{{ ho }}.md %}
+{% endfor %}

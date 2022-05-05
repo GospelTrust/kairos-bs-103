@@ -1,0 +1,170 @@
+week-01:
+  title: 'Week 1'
+  begin: 2022-04-18
+  end: 2022-04-23
+  theme: c1
+  items:
+  - title: 'Syllabus, & Course Overview'
+    header: info
+    session: 1
+    url: 'session-01'
+  - title: 'Why Should Christians Read and Study the Old Testament?'
+    header: info
+    session: 2
+    url: 'session-02'
+    handouts: [ '01' ]
+  - title: 'Brief Answers to Common Objections to the Old Testament'
+    header: info
+    session: 3
+    url: 'session-03'
+    handouts: [ '02' ]
+  - title: 'OT Events, and, Books & Sets of Books in the OT'
+    header: info
+    session: 4
+    url: 'session-04'
+    handouts: [ '03', '04', '05' ]
+  - title: "Psalm 105 & 106, and Israel's History"
+    tab: Assignment
+    number: 1
+    due: 2022-04-24
+    header: assignment
+    url: 'assignment-01'
+
+week-02:
+  title: Week 2
+  begin: 2022-04-25
+  end: 2022-04-30
+  theme: c3
+  items:
+  - title: 'Overview of the Pentateuch'
+    header: info
+    session: 5
+    url: 'session-05'
+    handouts: [ '06' ]
+  - title: 'Main Events and Developments in the Pentateuch'
+    header: info
+    session: 6
+    url: 'session-06'
+    handouts: [ '07' ]
+  - title: 'Basic Nature of OT Covenants and ANE Treaties'
+    header: info
+    session: 7
+    url: 'session-07'
+    handouts: [ '08' ]
+  - title: 'The Five Main Covenants in the OT'
+    header: info
+    session: 8
+    handouts: [ '09' ]
+  - title: 'Some Major Conclusions from the Pentateuch'
+    header: info
+    session: 9
+    handouts: [ '10' ]
+  - title: 'Quiz #1 study guide'
+    header: quiz
+    tab: Quiz
+    number: 1
+    due: 2022-05-01
+
+week-03:
+  title: Week 3
+  begin: 2022-05-02
+  end: 2022-05-07
+  theme: c5
+  items:
+  - title: 'An Overview of the OT Historical Books'
+    header: info
+    session: 10
+    handouts: [ '11' ]
+  - title: 'Chronicles Compared to Samuel-Kings'
+    header: info
+    session: 11
+    handouts: [ '12' ]
+  - title: 'The Importance of the Exile'
+    header: info
+    session: 12
+    handouts: [ '13' ]
+  - title: 'Selected Passages from the OT Historical Books'
+    header: info
+    session: 13
+    handouts: [ '14' ]
+  - title: 'Conclusions & Lessons from the OT Historical Books'
+    header: info
+    session: 14
+    handouts: [ '15' ]
+  - title: '2 Kings 15–21'
+    header: assignment
+    tab: Assignment
+    number: 2
+    due: 2022-05-08
+
+week-04:
+  title: Week 4
+  begin: 2022-05-16
+  end: 2022-05-21
+  theme: c7
+  items:
+  - title: 'Review of OT Poetry'
+    header: info
+    session: 15
+    handouts: [ '16' ]
+  - title: 'Introduction to the Wisdom Books'
+    header: info
+    session: 16
+    handouts: [ '17', '18' ]
+  - title: 'Proverbs'
+    header: info
+    session: 17
+    handouts: [ '19' ]
+  - title: 'Ecclesiastes'
+    header: info
+    session: 18
+    handouts: [ '20' ]
+    part: 1
+  - title: 'Ecclesiastes & Song of Songs'
+    header: info
+    session: 19
+    handouts: [ '20', '21' ]
+    part: 2
+  - title: 'Psalms'
+    header: info
+    session: 20
+    handouts: [ '22' ]
+    part: 1
+  - title: 'Psalms'
+    header: info
+    session: 21
+    handouts: [ '22' ]
+    part: 2
+  - title: 'Quiz #2 Study Guide'
+    header: quiz
+    tab: Quiz
+    number: 2
+    due: 2022-05-22
+
+week-05:
+  title: Week 5
+  begin: 2022-05-23
+  end: 2022-05-28
+  theme: c9
+  items:
+  - title: 'Introduction to the Prophetic Books'
+    header: info
+    session: 22
+    handouts: [ '23' ]
+  - title: 'Survey of the Prophetic Books'
+    header: info
+    session: 23
+    handouts: [ '24' ]
+  - title: 'Selected Passages from the Prophets & Has the OT Been Copied Carefully?'
+    header: info
+    session: 24
+    handouts: [ '25', '26' ]
+  - title: 'How Does the OT Apply to Christians?'
+    header: info
+    session: 25
+    handouts: [ '27' ]
+  - title: 'Habakkuk'
+    header: assignment
+    tab: Assignment
+    number: 3
+    due: 2022-05-29
