@@ -1,0 +1,10 @@
+{% assign file = include.handout | prepend: 'ho' %}
+{% assign title = site.data.handouts[file] %}
+
+`Handout #{{ include.handout }}: {{ title }}`
+
+{% for v in include.videos %}
+  {% include youtube.html id=v %}
+  {% assign size = include.videos | size %}
+  {% if forloop.index != size %}<hr />{% endif %}
+{% endfor %}
