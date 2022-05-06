@@ -107,13 +107,13 @@ Here are some brief answers to four common objections that people raise against 
 
  Psalm 51
 
- > 1Have mercy on me, O God, according to your unfailing love; according to your great compassion, blot out my transgressions. [ … ]
- > 17The sacrifice pleasing to God is a broken spirit; a broken and contrite spirit, O God, you will not despise.
+ > 1 Have mercy on me, O God, according to your unfailing love; according to your great compassion, blot out my transgressions. [ … ]
+ > 17 The sacrifice pleasing to God is a broken spirit; a broken and contrite spirit, O God, you will not despise.
 
  Psalm 103:10-17
 
- > 10God does not treat us as our sins deserve, or repay us according to our iniquities. For as high as the heavens are above the earth, so great is his unfailing love for those who fear him. [ … ]
- > 17Indeed, from everlasting to everlasting is the Lord's unfailing love with those who fear him.
+ > 10 God does not treat us as our sins deserve, or repay us according to our iniquities. For as high as the heavens are above the earth, so great is his unfailing love for those who fear him. [ … ]
+ > 17 Indeed, from everlasting to everlasting is the Lord's unfailing love with those who fear him.
 
  Hosea 11 - The entire chapter describes God's tender love for Israel, esp. verses 1, 3, 4, & 8.
 
@@ -125,7 +125,7 @@ Here are some brief answers to four common objections that people raise against 
 
  Romans 1:18-32
 
- > 18The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness …
+ > 18 The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness …
  > [ … ]
  > 30 [They are] slanderers, God-haters, insolent, arrogant and boastful. They invent ways of doing evil. They disobey their parents. 31They are senseless, faithless, heartless, ruthless. 32And although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things, but they also approve of those who practice them.
 
@@ -215,7 +215,7 @@ List of Main OT Events
 
 - (6) Joseph, and the entry of the patriarchs into Egypt. They spend 400 years there. Over time, they are oppressed more and more by the Egyptians, until they cry out to God.
 
-- (7) The exodus: God's delivers Israel from Egypt via the 10 plagues & the Red Sea. 1446 B# C.
+- (7) The exodus: God's delivers Israel from Egypt via the 10 plagues & the Red Sea. 1446 BC.
 
 - (8) The nation of Israel arrives at Mt. Sinai.
 
@@ -249,7 +249,7 @@ List of Main OT Events
 
 - (13) Saul becomes Israel's first king. But he disobey God, and loses his kingship. He persecutes David for no good reason. Saul is eventually rejected by God.
 
-- (14) David becomes king; he wins many victories. He brings the ark to Jerusalem. ±1000 B# C.
+- (14) David becomes king; he wins many victories. He brings the ark to Jerusalem. ±1000 BC.
 
 - (15) The Davidic Covenant
 
@@ -257,27 +257,27 @@ List of Main OT Events
 
 - (16) David's personal failures: His adultery with Bathsheba and effective murder of Uriah the Hittite. David's own son Absalom (a handsome but godless young man) rebels of against him. David is succeeded by his son Solomon.
 
-- (17) Solomon builds the temple; the ark of the covenant is brought to reside there. 966/960 B# C.
+- (17) Solomon builds the temple; the ark of the covenant is brought to reside there. 966/960 BC.
 
-- (18) 931 B# C. Solomon dies, and the kingdom divides into two kingdoms:
+- (18) 931 BC. Solomon dies, and the kingdom divides into two kingdoms:
 
  * Northern-kingdom 'Israel' ("NKI", 10 tribes), whose capital is _________________; and,
  * Judah (2 tribes), whose capital is ______________ . 1 Kgs 11 & 12.
 
 - (19) Jeroboam (1st king of NKI) sets up centers of worship at Bethel & Dan ("The sin of Jeroboam").  // Shortly after this time is when …
 
-- (20) As the result of scorning God, worshipping other gods and breaking the Sinai covenant, Samaria was laid waste by the Assyrians. Most of the northern 10 tribes were scattered into Assyria's empire, and Gentiles were imported into the region of Samaria. 2 Kings 17. 722 B# C.
+- (20) As the result of scorning God, worshipping other gods and breaking the Sinai covenant, Samaria was laid waste by the Assyrians. Most of the northern 10 tribes were scattered into Assyria's empire, and Gentiles were imported into the region of Samaria. 2 Kings 17. 722 BC.
 
 - (21) The prophet Jeremiah announces a ‘new covenant’ , which will come in the future (Jer 31). Its two main dynamics are:
 
  * (1)
  * (2)
 
-- (22) As the result of scorning God, worshipping other gods and breaking the Sinai covenant, Jerusalem is laid waste by the Babylonians, the temple is destroyed, and the nation is dragged off into exile to Babylon (587 BC). 2 Kings 25, 36; Jer 39 & 52; Ezek 20-23, 33. 587 B# C.
+- (22) As the result of scorning God, worshipping other gods and breaking the Sinai covenant, Jerusalem is laid waste by the Babylonians, the temple is destroyed, and the nation is dragged off into exile to Babylon (587 BC). 2 Kings 25, 36; Jer 39 & 52; Ezek 20-23, 33. 587 BC.
 
 - (23) The Jews return from exile (announced in 2 Chronicles 36, and in Ezra ch. 1), after 70 years.
 
-- (24) They rebuild the temple. Ezra 1-6. The 2nd Temple is completed in 516 B# C.
+- (24) They rebuild the temple. Ezra 1-6. The 2nd Temple is completed in 516 BC.
 
 - (25) They later rebuild the walls of Jerusalem (Nehemiah 1-6).
 
@@ -385,7 +385,7 @@ We will provide a brief summary of the Pentateuch in H/O #06.
 
  There is also broad agreement that the last prophetic book written was:
 
- They were both written around 450 B# C. The period of time from after them until when Jesus comes is often called “the 400 silent years.” It is also called “the inter-testamental period.” It ends when people recognize that John the Baptist is a prophet.
+ They were both written around 450 BC. The period of time from after them until when Jesus comes is often called “the 400 silent years.” It is also called “the inter-testamental period.” It ends when people recognize that John the Baptist is a prophet.
 
 ----
 
@@ -485,12 +485,12 @@ Main Events and Developments in the Pentateuch that the Rest of the OT assumes t
 
 (13) Joseph's own family (= Jacob and his other 11 sons) eventually comes to Egypt to buy grain. After some intrigue and some testing, they are re-united with Joseph, and they remain in Egypt.
 
-(14) Jacob & his family enter Egypt around 1876 B# C. They remain there for probably 400 years. During this time, their population grows greatly.
+(14) Jacob & his family enter Egypt around 1876 BC. They remain there for probably 400 years. During this time, their population grows greatly.
  OT Survey / Dr. Lane 1 H/O #07 – Main Events in the Pentateuch
 
 (15) Eventually, the Egyptians treat them badly and subject them to harsh labor (Exod 1). The Israelites cry out to God, and God remembers his covenant with Abraham, Isaac & Jacob (Exod 2:24).
 
-(16) God sends them a deliverer, Moses. After God sends 10 plagues upon Egypt, the Pharaoh finally relents, and lets the Israelites go. This is the exodus. It likely dates to 1446 B# C.
+(16) God sends them a deliverer, Moses. After God sends 10 plagues upon Egypt, the Pharaoh finally relents, and lets the Israelites go. This is the exodus. It likely dates to 1446 BC.
 
 (17) But Pharaoh changes his mind, and pursues the Israelites. God dramatically saves the Israelites by parting the waters of the Red Sea (perhaps: Sea of Reeds), and then by drowning the entire Egyptian army that had pursued Israel.
 
@@ -1020,7 +1020,7 @@ Israel, Ruth comes with her. In Israel, God provides a husband for Ruth, named B
 
  - and a northern kingdom, called "Israel."
 
- The division of the kingdom take`s place in 931 B# C.
+ The division of the kingdom take`s place in 931 BC.
 
  The rest of the book of 1 Kings follows these two kingdoms for about 80 more years, until the death of King Ahab (he was an evil king of northern kingdom Israel). This is the time of the prophet Elijah.
 
@@ -1049,7 +1049,7 @@ Here is a summary of the time period and the main events which each of these boo
 (1) Chron 1 Chronicles begins with nine chapters of genealogies which trace the lineage of the
 Israelites from Adam(!) through Noah, Abraham, Isaac, and Jacob, down to the time of David. The first event recorded is the death of Saul (ch. 10). The last event recorded in 1 Chronicles is the death of David.
 2 Chron 2 Chronicles begins with the reign of King Solomon (chs. 1-9), and then the division of the kingdom when Solomon dies (chs. 9 & 10). Like 1 & 2 Kings, 2 Chronicles traces the history of northern kingdom Israel and of southern kingdom Judah until each is defeated.
- It records the fall of Jerusalem to the Babylonians and King Nebuchadnezzar in 586 B# C.
+ It records the fall of Jerusalem to the Babylonians and King Nebuchadnezzar in 586 BC.
 
  It ends with Judah being taken into exile for 70 years (2 Chron 36:20-21).
  However(!), 2 Chronicles records one more very significant event that occurred near the end of the 70 years in exile. It records the decree of the Persian King Cyrus (who conquered Babylonia) that the Jews may return to Judah, and may rebuild a temple for their
@@ -1058,7 +1058,7 @@ Israelites from Adam(!) through Noah, Abraham, Isaac, and Jacob, down to the tim
  Thus while 2 Kings ends with Judah being dragged off into exile, 2 Chronicles ends with the decree that they may return home.
 Ezra The book of Ezra has two main sections:
 
- Chs. 1-6 record the re-building of the temple. It was completed and dedicated in 516 B# C.
+ Chs. 1-6 record the re-building of the temple. It was completed and dedicated in 516 BC.
  Then there is a 60-year gap between chs. 6 and 7.
  [The book of Esther takes place during this
 
@@ -1067,7 +1067,7 @@ Ezra The book of Ezra has two main sections:
  Chs. 7-10 resume the action. They begin in 458 BC, when Ezra the scribe returns to Jerusalem from Babylon. The rest of the book deals with the practical and religious problems that Ezra confronted in Jerusalem.
 Nehemiah The book of Nehemiah flows right on from the book of Ezra. It begins in 445 BC, when
 Nehemiah receives permission from the king of Persia (King Artaxerxes) to return to
-Jerusalem to help rebuild its walls. There is opposition from the local Samaritans (ch. 4), but eventually the walls are rebuilt (ch. 6). The rest of the book deals with the ongoing moral and religious problems that Nehemiah faced dealing with the Jews in Jerusalem. The story line in Nehemiah ends at approximately 430 B# C. Chronologically, Nehemiah is the last of the historical books in the Old Testament.
+Jerusalem to help rebuild its walls. There is opposition from the local Samaritans (ch. 4), but eventually the walls are rebuilt (ch. 6). The rest of the book deals with the ongoing moral and religious problems that Nehemiah faced dealing with the Jews in Jerusalem. The story line in Nehemiah ends at approximately 430 BC. Chronologically, Nehemiah is the last of the historical books in the Old Testament.
 
 Esther The book of Esther dates to approximately 480 BC, during the reign of the Persian King
 Xerxes. [Note: the OT calls this Persian king "Ahasuerus," which reflects the king's Persian name;
@@ -1199,12 +1199,12 @@ H/O #13 – The Importance of the Exile
 # A. The Exile – What it is, and Why it is Very Important.
 
 1. Where Does the Exile Fall in Israel’s History?
-Moses led the Israelites out of Egypt at 1446 B# C. Israel came to Mt Sinai later that same year. At Mt Sinai they had a dramatic encounter with God. They also entered into the Sinai covenant with God, and received the Law (the Law both guides Israel’s life and is also the requirements of the Sinai covenant). After Moses died, Israel crossed the Jordan river and entered the promised land under the leadership of Joshua. This occurred at about 1400 BC.
+Moses led the Israelites out of Egypt at 1446 BC. Israel came to Mt Sinai later that same year. At Mt Sinai they had a dramatic encounter with God. They also entered into the Sinai covenant with God, and received the Law (the Law both guides Israel’s life and is also the requirements of the Sinai covenant). After Moses died, Israel crossed the Jordan river and entered the promised land under the leadership of Joshua. This occurred at about 1400 BC.
 
-David became the king of Israel approximately 400 years after the time of Joshua. Thus David ruled as king over Israel around the year 1000 B# C. He was followed by Solomon. When Solomon died (931 BC), the kingdom of Israel split into two kingdoms. The northern kingdom had 10 tribes and was called “Israel.” The southern kingdom had 2 tribes (Judah
+David became the king of Israel approximately 400 years after the time of Joshua. Thus David ruled as king over Israel around the year 1000 BC. He was followed by Solomon. When Solomon died (931 BC), the kingdom of Israel split into two kingdoms. The northern kingdom had 10 tribes and was called “Israel.” The southern kingdom had 2 tribes (Judah
 & Benjamin), and was called “Judah.”
 
-The kings who were descended from David and then Solomon ruled Judah, the southern kingdom, from its capital city, Jerusalem. These kings ruled Judah for over of 400 years. This line of kings ruling Judah came to an end when Jerusalem fell to the Babylonians (led by king Nebuchadnezzar), in 587/586 B# C. That is when the exile begins.
+The kings who were descended from David and then Solomon ruled Judah, the southern kingdom, from its capital city, Jerusalem. These kings ruled Judah for over of 400 years. This line of kings ruling Judah came to an end when Jerusalem fell to the Babylonians (led by king Nebuchadnezzar), in 587/586 BC. That is when the exile begins.
 
 2. What is the Exile?
 When Jerusalem fell, the Babylonians destroyed the Temple and much of Jerusalem. They took thousands of Jews to Babylon to be workers, servants, and slaves (not all of them were slaves). The Jews remained in Babylon for 70 years, until Babylon itself was conquered by the Persians (see Daniel 5). Shortly after that happened, the Persian king Cyrus decreed that the Jews could go home = they could return to Jerusalem (see 2 Chron 36 and Ezra 1). The 70 years they spent in Babylon, away from the promised land, are called “the exile.”
@@ -1419,7 +1419,7 @@ But too often, Israel was not faithful to God. At these times, they began to exp
 
 Eventually, God pronounced judgment on them. Northern kingdom Israel was destroyed in 722 BC by the Assyrians. Assyria dragged many Israelites off into exile.
 
-Judah had some good kings, and lasted longer, but it too was judged by God. Jerusalem and the temple were destroyed in 586 B# C. And thousands of Jews were taken in exile to Babylon.
+Judah had some good kings, and lasted longer, but it too was judged by God. Jerusalem and the temple were destroyed in 586 BC. And thousands of Jews were taken in exile to Babylon.
 
 So rather than serving and obeying God and experiencing the blessings of the Sinai covenant, Israel and Judah were so unfaithful that God declared that they broke the covenant (Jer 31:32). And so God carried out the curses of the covenant: they were defeated, their cities were destroyed, the temple was destroyed, and they were kicked them out of the land.
 
@@ -2836,7 +2836,7 @@ The 1,000 year gap in Hebrew manuscripts is not completely empty; there are many
 
 While there are few OT manuscripts in Hebrew from the period before AD 1000, there is other evidence. Just as the Bible has been translated into several <thousand!> languages today, so also the OT had been translated into a number of other languages before AD 1000. These translations are referred to as the "ancient versions" of the Old Testament, and they provide us with a lot of
  manuscript evidence. Here are the major ancient versions, in their likely chronological order:
-The Greek Septuagint (often abbreviated "the LXX"). It was translated by Jews for Jews, mostly in ancient Egypt, around 200 B# C. [Eventually, it became the version of the OT used most often by the early
+The Greek Septuagint (often abbreviated "the LXX"). It was translated by Jews for Jews, mostly in ancient Egypt, around 200 BC. [Eventually, it became the version of the OT used most often by the early
  church, because so few of the early Christians knew Hebrew.]
 The Aramaic "Targums" (the word "Targum" is simply the Aramaic word for "translation.") After the exile, Aramaic gradually replaced Hebrew as the language which Jews actually spoke (see for example Matt. 27:26). The Aramaic translations of the OT were well established by AD 300–400.
 The Syriac Versions
@@ -3048,4 +3048,3 @@ When in doubt, Christians should follow a clear NT teaching over an unclear OT t
 
 
  * * * * *
-

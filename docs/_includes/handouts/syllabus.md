@@ -10,13 +10,13 @@ A student who has successfully completed this course:
 
 2. Will know and be able to use a sound interpretive method for reading the Old Testament. This involves learning to recognize and appreciate:
 
-   • the importance of reading individual passages in light of their immediate context as well as that of the book and set of books in which they occur;
+   * the importance of reading individual passages in light of their immediate context as well as that of the book and set of books in which they occur;
 
-   • where books fit in the overall history and flow of the Old Testament, and how that knowledge helps us to understand each book;
+   * where books fit in the overall history and flow of the Old Testament, and how that knowledge helps us to understand each book;
 
-   • the various types of literature ("genre") in the OT;
+   * the various types of literature ("genre") in the OT;
 
-   • the specific cultural & religious settings into which the OT was written, which can help clarify the difference between a pagan understanding of “the gods,” versus a biblical understanding of the one true God.
+   * the specific cultural & religious settings into which the OT was written, which can help clarify the difference between a pagan understanding of “the gods,” versus a biblical understanding of the one true God.
 
 3. Will understand and be able to explain the concept of covenant, and will recognize its importance for determining what aspects of the Old Testament apply to Christians.
 
@@ -32,8 +32,8 @@ A Reading Schedule / Reading Report will be provided.
 
 Required Reading:
 
-  • All course handouts.
-  • Approximately 150 designated chapters from the Bible.
+  * All course handouts.
+  * Approximately 150 designated chapters from the Bible.
 
 # IV. COURSE REQUIREMENTS
 
@@ -55,7 +55,7 @@ Work | Points
 :--- | :---
 Two Quizzes | 90 points
 Three Written Assignments | 130 points
-Live Zoom Sessions [10 points each, x 5 weeks] | 50 points
-Reading Report (150 pages) [The reading has been held to a minimum due to the size of the written assignments.] | 30 points
+Live Zoom Sessions<br/>[10 points each, x 5 weeks] | 50 points
+Reading Report (150 pages)<br/>[The reading has been held to a minimum<br/> due to the size of the written assignments.] | 30 points
 Final Exam (100 x 2 = 200) | 200 points
 Total Possible Points | 500 points
