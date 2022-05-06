@@ -1,6 +1,7 @@
 ---
 index: 6
 layout: lesson
+type: assignment
 ---
 
-`Assignment #01: Psalm 105 & 106, and Israel's History`
+{% include lesson/assignment.html %}
