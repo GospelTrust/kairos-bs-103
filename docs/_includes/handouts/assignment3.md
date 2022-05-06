@@ -43,27 +43,27 @@ Read through the book of Habakkuk. Please think about it(!) as you read.
 
 11. Summarize Habakkuk’s first complaint / first question. Put it into your own words.
 
-   (4 points)
+    (4 points)
 
 12. Which verses contain Habakkuk’s second complaint = his response to God?
 
-   Re-read Habakkuk’s response to God carefully.
+    Re-read Habakkuk’s response to God carefully.
 
 13. Which verse states the point of Habakkuk’s question = his challenge to God, most specifically?
 
 14. Put that challenge into your own words.
 
-   ```
-   Do not just quote the verse.
-   ```
+    ```
+    Do not just quote the verse.
+    ```
 
-   (4 points)
+    (4 points)
 
 15. Which verses contain God’s reply back to Habakkuk?
 
 16. Which verse states God’s brief instructions for Jews who desire to remain faithful to God?
 
-   You just need to give the chapter & verse number.
+    You just need to give the chapter & verse number.
 
 17. What are God’s instructions for Jews who desire to remain faithful to Him?
 
@@ -71,25 +71,25 @@ Read through the book of Habakkuk. Please think about it(!) as you read.
 
 19. In the passage Habakkuk 2:5–20, which two verses help us to identify that God is indeed talking about Babylon?
 
-   (2 points each = 4 points)
+    (2 points each = 4 points)
 
 20. God charges Babylon with several sins in this section. List two of them, and give the verse #’s.
 
-   (6 points total)
+    (6 points total)
 
 21. List two verse numbers that tell us very directly what will happen to Babylon.
 
-   (2 points each = 4 points)
+    (2 points each = 4 points)
 
 22. Summarize / describe what will eventually happen to Babylon.
 
-   (2 for each verse, 2 for each statement; 4 points max).
+    (2 for each verse, 2 for each statement; 4 points max).
 
 23. Carefully summarize Habakkuk’s prayer of response in chapter 3. (6 points).
 
-   ```
-   For example: Does he accept what will happen, or does he plead with God to do something different?
-   ```
+    ```
+    For example: Does he accept what will happen, or does he plead with God to do something different?
+    ```
 
 ## For your own reflection:
 
