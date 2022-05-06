@@ -55,10 +55,12 @@ week-02:
   - title: 'The Five Main Covenants in the OT'
     header: info
     session: 8
+    url: 'session-08'
     handouts: [ '09' ]
   - title: 'Some Major Conclusions from the Pentateuch'
     header: info
     session: 9
+    url: 'session-09'
     handouts: [ '10' ]
   - title: 'Quiz #1 study guide'
     header: quiz
@@ -75,22 +77,27 @@ week-03:
   - title: 'An Overview of the OT Historical Books'
     header: info
     session: 10
+    url: 'session-10'
     handouts: [ '11' ]
   - title: 'Chronicles Compared to Samuel-Kings'
     header: info
     session: 11
+    url: 'session-11'
     handouts: [ '12' ]
   - title: 'The Importance of the Exile'
     header: info
     session: 12
+    url: 'session-12'
     handouts: [ '13' ]
   - title: 'Selected Passages from the OT Historical Books'
     header: info
     session: 13
+    url: 'session-13'
     handouts: [ '14' ]
   - title: 'Conclusions & Lessons from the OT Historical Books'
     header: info
     session: 14
+    url: 'session-14'
     handouts: [ '15' ]
   - title: '2 Kings 15–21'
     header: assignment
@@ -98,6 +105,7 @@ week-03:
     number: 2
     due: 2022-05-08
     points: 40
+    url: 'assignment-01'
 
 week-04:
   title: Week 4
