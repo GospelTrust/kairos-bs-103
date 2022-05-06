@@ -123,14 +123,17 @@ week-04:
   - title: 'Introduction to the Wisdom Books'
     header: info
     session: 16
+    url: 'session-16'
     handouts: [ '17', '18' ]
   - title: 'Proverbs'
     header: info
     session: 17
+    url: 'session-17'
     handouts: [ '19' ]
   - title: 'Ecclesiastes'
     header: info
     session: 18
+    url: 'session-18'
     handouts: [ '20' ]
     part: 1
   - title: 'Ecclesiastes & Song of Songs'
