@@ -140,16 +140,19 @@ week-04:
   - title: 'Ecclesiastes & Song of Songs'
     header: info
     session: 19
+    url: 'session-19'
     handouts: [ '20', '21' ]
     part: 2
   - title: 'Psalms'
     header: info
     session: 20
+    url: 'session-20'
     handouts: [ '22' ]
     part: 1
   - title: 'Psalms'
     header: info
     session: 21
+    url: 'session-21'
     handouts: [ '22' ]
     part: 2
   - title: 'Quiz #2: Handouts #07, #08, #09 & #11'
@@ -170,17 +173,21 @@ week-05:
   - title: 'Introduction to the Prophetic Books'
     header: info
     session: 22
+    url: 'session-22'
     handouts: [ '23' ]
   - title: 'Survey of the Prophetic Books'
     header: info
     session: 23
+    url: 'session-23'
     handouts: [ '24' ]
   - title: 'Selected Passages from the Prophets & Has the OT Been Copied Carefully?'
     header: info
     session: 24
+    url: 'session-24'
     handouts: [ '25', '26' ]
   - title: 'How Does the OT Apply to Christians?'
     header: info
+    url: 'session-25'
     session: 25
     handouts: [ '27' ]
   - title: 'Habakkuk'
