@@ -11,21 +11,7 @@ layout: index
   {% for week in site.collections %}
     {% assign info = site.data.course[week.label] %}
     {% if info %}
-      {% assign end = info.end | date: '%s' %}
-      {% assign begin = info.begin | date: '%s' %}
-      {% assign now = 'now' | date: '%s' %}
-
-      {% unless end and now > end %}
-        {% assign theme = info.theme %}
-      {% endunless %}
-
-      {% if now >= begin and now <= end %}
-        {% assign current = 'current' %}
-      {% else %}
-        {% assign current = '' %}
-      {% endif %}
-
-      <li class="card-tab {{ theme }} {{ current }}">
+      <li class="card-tab {{ info.theme }}">
         <div class="top-bar">week</div>
         <div class="tab">{{ forloop.index0 }}</div>
         <div class="header">
