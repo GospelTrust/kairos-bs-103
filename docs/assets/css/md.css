@@ -30,6 +30,7 @@ samp {
   filter: blur(4px);
   font-family: var(--specialFont);
   font-size: 20px;
+  cursor: pointer;
 }
 samp.on {
   filter: none;
