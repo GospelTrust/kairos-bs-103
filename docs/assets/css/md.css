@@ -27,11 +27,11 @@ tr:nth-child(odd) {
 }
 
 samp {
-  filter: blur(2px);
-  color: var(--secondaryColor);
+  filter: blur(4px);
   font-family: var(--specialFont);
   font-size: 20px;
 }
 samp.on {
   filter: none;
+  color: var(--secondaryColor);
 }
