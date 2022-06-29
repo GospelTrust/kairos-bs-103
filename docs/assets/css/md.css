@@ -15,6 +15,7 @@
 th {
   background-color: #2f2f2f;
 }
+
 table, th, td {
   border-bottom: 1px solid #333;
   border-collapse: collapse;
@@ -25,3 +26,12 @@ tr:nth-child(odd) {
   background-color: #3f3f3f;
 }
 
+samp {
+  filter: blur(2px);
+  color: var(--secondaryColor);
+  font-family: var(--specialFont);
+  font-size: 20px;
+}
+samp.on {
+  filter: none;
+}
