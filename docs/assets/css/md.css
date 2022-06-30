@@ -29,10 +29,24 @@ tr:nth-child(odd) {
 samp {
   filter: blur(4px);
   font-family: var(--specialFont);
-  font-size: 20px;
+  font-size: 18px;
   cursor: pointer;
 }
 samp.on {
   filter: none;
   color: var(--secondaryColor);
+}
+
+summary {
+  color: var(--secondaryColor);
+  cursor: pointer;
+}
+summary h3 {
+  display: contents;
+}
+details p {
+  margin: 0 0 40px 20px;
+}
+details p samp.on {
+  color: inherit;
 }
