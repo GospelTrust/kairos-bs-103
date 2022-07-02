@@ -78,6 +78,7 @@ code {
 pre {
   background: linear-gradient(rgba(0,0,0,0.05),rgba(0,0,0,0.05));
   padding: 10px;
+  white-space: pre-wrap;
 }
 
 pre code {

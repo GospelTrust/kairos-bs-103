@@ -21,7 +21,7 @@
     </section>
 
     {% include lesson/footer.html %}
-    <script>
+    <script defer>
       const samps = document.querySelectorAll('samp');
       samps.forEach( el => el.addEventListener('click', function(e) {
           e.target.classList.toggle('on');
