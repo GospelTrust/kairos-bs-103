@@ -1,0 +1,254 @@
+syllabus:
+  segment: 'week-01'
+  title: 'BS-103 Old Testament Survey'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+session-01:
+  segment: 'week-01'
+  title: 'Why Should Christians Read and Study the Old Testament?'
+  icon: web_stories
+  header: 'Lesson 1'
+  sequence: 1
+  url: 'session-01'
+
+session-02:
+  segment: 'week-01'
+  title: 'Brief Answers to Common Objections to the Old Testament'
+  icon: web_stories
+  header: 'Lesson 2'
+  sequence: 2
+  url: 'session-02'
+
+session-03:
+  segment: 'week-01'
+  title: 'OT Events and Books & Sets of Books in the OT'
+  icon: web_stories
+  header: 'Lesson 3'
+  sequence: 3
+  url: 'session-03'
+
+session-04:
+  segment: 'week-02'
+  title: 'Overview of the Pentateuch'
+  icon: web_stories
+  header: 'Lesson 4'
+  sequence: 4
+  url: 'session-04'
+
+session-05:
+  segment: 'week-02'
+  title: 'Main Events and Developments in the Pentateuch'
+  icon: web_stories
+  header: 'Lesson 5'
+  sequence: 5
+  url: 'session-05'
+
+session-06:
+  segment: 'week-02'
+  title: 'Basic Nature of OT Covenants and ANE Treaties'
+  icon: web_stories
+  header: 'Lesson 6'
+  sequence: 6
+  url: 'session-06'
+
+session-07:
+  segment: 'week-02'
+  title: 'The Five Main Covenants in the OT'
+  icon: web_stories
+  header: 'Lesson 7'
+  sequence: 7
+  url: 'session-07'
+
+session-08:
+  segment: 'week-02'
+  title: 'Some Major Conclusions from the Pentateuch'
+  icon: web_stories
+  header: 'Lesson 8'
+  sequence: 8
+  url: 'session-08'
+
+session-09:
+  segment: 'week-03'
+  title: 'An Overview of the OT Historical Books'
+  icon: web_stories
+  header: 'Lesson 9'
+  sequence: 9
+  url: 'session-09'
+
+session-10:
+  segment: 'week-03'
+  title: 'Chronicles Compared to Samuel-Kings'
+  icon: web_stories
+  header: 'Lesson 10'
+  sequence: 10
+  url: 'session-10'
+
+session-11:
+  segment: 'week-03'
+  title: 'The Importance of the Exile'
+  icon: web_stories
+  header: 'Lesson 11'
+  sequence: 11
+  url: 'session-11'
+
+session-12:
+  segment: 'week-03'
+  title: 'Selected Passages from the OT Historical Books'
+  icon: web_stories
+  header: 'Lesson 12'
+  sequence: 12
+  url: 'session-12'
+
+session-13:
+  segment: 'week-03'
+  title: 'Conclusions & Lessons from the OT Historical Books'
+  icon: web_stories
+  header: 'Lesson 13'
+  sequence: 13
+  url: 'session-13'
+
+session-14:
+  segment: 'week-04'
+  title: 'Review of OT Poetry'
+  icon: web_stories
+  header: 'Lesson 14'
+  sequence: 14
+  url: 'session-14'
+
+session-15:
+  segment: 'week-04'
+  title: 'Introduction to the Wisdom Books'
+  icon: web_stories
+  header: 'Lesson 15'
+  sequence: 15
+  url: 'session-15'
+
+session-16:
+  segment: 'week-04'
+  title: 'Proverbs'
+  icon: web_stories
+  header: 'Lesson 16'
+  sequence: 16
+  url: 'session-16'
+
+session-17:
+  segment: 'week-04'
+  title: 'Ecclesiastes'
+  icon: web_stories
+  header: 'Lesson 17'
+  sequence: 17
+  url: 'session-17'
+  part: 1
+
+session-18:
+  segment: 'week-04'
+  title: 'Ecclesiastes & Song of Songs'
+  icon: web_stories
+  header: 'Lesson 18'
+  sequence: 18
+  url: 'session-18'
+  part: 2
+
+session-19:
+  segment: 'week-04'
+  title: 'Psalms'
+  icon: web_stories
+  header: 'Lesson 19'
+  sequence: 19
+  url: 'session-19'
+  part: 1
+
+session-20:
+  segment: 'week-04'
+  title: 'Psalms'
+  icon: web_stories
+  header: 'Lesson 20'
+  sequence: 20
+  url: 'session-20'
+  part: 2
+
+session-21:
+  segment: 'week-05'
+  title: 'Introduction to the Prophetic Books'
+  icon: web_stories
+  header: 'Lesson 21'
+  sequence: 21
+  url: 'session-21'
+
+session-22:
+  segment: 'week-05'
+  title: 'Survey of the Prophetic Books'
+  icon: web_stories
+  header: 'Lesson 22'
+  sequence: 22
+  url: 'session-22'
+
+session-23:
+  segment: 'week-05'
+  title: 'Selected Passages from the Prophets & Has the OT Been Copied Carefully?'
+  icon: web_stories
+  header: 'Lesson 23'
+  sequence: 23
+  url: 'session-23'
+
+session-24:
+  segment: 'week-05'
+  title: 'How Does the OT Apply to Christians?'
+  icon: web_stories
+  header: 'Lesson 24'
+  sequence: 24
+  url: 'session-24'
+
+assignment-01:
+  segment: 'week-01'
+  title: "Psalm 105 & 106, and Israel's History"
+  icon: article
+  header: 'Assigment 1'
+  type: 'Assignment'
+  url: 'assignment-01'
+  due: 2022-04-24
+  points: 30
+
+assignment-02:
+  segment: 'week-03'
+  title: '2 Kings 15–21'
+  icon: article
+  header: 'Assigment 2'
+  type: 'Assignment'
+  url: 'assignment-02'
+  due: 2022-05-28
+  points: 40
+
+assignment-03:
+  segment: 'week-05'
+  title: 'Habakkuk'
+  icon: article
+  header: 'Assigment 3'
+  type: 'Assignment'
+  url: 'assignment-03'
+  due: 2022-05-29
+  points: 60
+
+quiz-01:
+  segment: 'week-02'
+  title: 'Handouts #03, #04, & #05'
+  icon: quiz
+  header: 'Quiz 1'
+  type: 'Quiz'
+  url: 'quiz-01'
+  due: 2022-05-01
+  points: 40
+
+quiz-02:
+  segment: 'week-04'
+  title: 'Handouts #07, #08, #09 & #11'
+  icon: quiz
+  header: 'Quiz 2'
+  type: 'Quiz'
+  url: 'quiz-02'
+  due: 2022-05-22
+  points: 40
+
