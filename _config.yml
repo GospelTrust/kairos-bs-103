@@ -10,7 +10,7 @@ acc:
   date_format: "%b %d, %y"
   short_name: "BS-103"
   color:
-    theme: "#ffa4ff"
+    theme: "#ffd700"
     bg: "#222"
   url: "https://bs103.nissi.app"
   categories:
