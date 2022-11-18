@@ -5,6 +5,7 @@ syllabus:
   header: 'Syllabus'
   type: 'Information'
   url: 'syllabus'
+  videos: [ 'QXdK4F7HjNw' ]
 
 session-01:
   segment: 'week-01'

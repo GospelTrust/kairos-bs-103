@@ -1,4 +1,6 @@
 
+{% include session/youtube.html id='224DlOYymS4' %}
+
 ## I. The Background We Need to Know to Understand the Book of Psalms
 
 There are three areas of background information that are very helpful for understanding the book of Psalms:
@@ -74,4 +76,52 @@ The psalms assume the reader is generally familiar with these three covenants. W
    ```
 
 You will find that, as you read the Psalms, many of them will make more sense to you if you are familiar with events and covenants listed above.
+
+## II. Some Insights that Will Help Us Understand the Book of Psalms
+
+### A. The Psalms are all written in Hebrew Poetry.
+
+We looked at the nature of Hebrew poetry in H/O #16. Here we will just review a few items:
+
+* The lines in OT poetry usually come in pairs; this feature is called: __ . What’s the point?
+
+* The language is often __ and is not meant to be taken flatly literally.
+
+* Sometimes, one poem or one psalm will only tell us …
+
+* Sometimes, instead of telling us the facts of the matter, poetry will tell us …
+
+### B. It is Helpful to Identify: Who is the Speaker in a Psalm?
+
+#### The "Speaker" versus the "Psalmist"
+
+The term, “the psalmist” refers to the person who wrote the psalm (David, Asaph, the sons of Korah, etc.) The 'speaker' in a psalm is usually the same as the psalmist, but not always.
+
+When we read the psalms, we find that the 'speaker' can shift within a given psalm (from singular to plural, from a human to God, etc.).
+
+For example, in Psalm 46, the 'psalmist' is "the sons of Korah," the 'speaker' is plural, and could be them, or perhaps even the nation. But in v. 10, the speaker is clearly God; then in v. 11, the speaker shifts back to plural, the people / the nation / the godly. This distinction between the 'psalmist' and the 'speaker' will be especially important in psalms like Psalm 89 and 91.
+
+### C. It is Helpful to Identify: Who is the Psalm Speaking about?
+
+1. Psalms which sound like they are about David, but which describe events beyond anything David ever experienced.
+
+   There are psalms that are by David, and which speak in the 1st-person, as if it were David describing something about himself / his own experience. But in some of these psalms, the psalm describes things that go beyond anything David ever experienced. Two examples are Psalm 16 and Psalm 22. In such cases, interpreters have concluded that David is not talking about himself, but is talking about the Messiah. See Psalm 16 and Acts 2:24–32.
+
+2. When the Pearson Being Referred to in a Psalm is Not Clear
+
+   Usually, who or what a psalm is talking about is obvious. But sometimes the person that a psalm is referring to might not be clear. A psalm can sometimes move from talking about one person to another very smoothly = without signaling to the reader that it has done so. In these cases it can be hard to identify who the psalm is talking about.
+
+   Most often the question is: Is the psalm talking about David, or about a future Davidic king? For example, consider Psalm 8:
+
+   ```
+   In Psalm 8, does the phrase "the son of man" refer to all human beings, or to the Son of Man? When Psalm 8 is read in the context of the Old Testament, it easily & naturally seems to be referring to human beings, in general. But Hebrews 2 picks up on those words, and applies them to Jesus as the Son of God, in a unique way. Can the words in Psalm 8 refer to both? That is, can they reasonably apply to both?
+   ```
+
+   Further, within the same psalm, there will sometimes be verses that seem to be speaking about the Messiah, and yet others which cannot be speaking about the Messiah, but nothing has signaled this shift to the reader. Consider Psalm 41:
+
+   ```
+   The NT (Heb 10:5–7) quotes parts of Psalm 41 (vv. 6–8) and tells us that they are about the Messiah. But other parts of Psalm 41 cannot be about the Messiah, because they confess the speaker's many sins! (v. 4).
+   ```
+
+   So the person that the psalm is speaking about can shift without the psalm telling us it has done so. Identifying who the psalm is talking about is very important. [Two examples: this is especially important in Psalm 89 and 91.]
 
